@@ -1,6 +1,8 @@
 # KMS Pico Portable
 **KMS Pico Portable** es una solución independiente que posibilita la validación de licencias para Windows y Office de Microsoft mediante la recreación local de un entorno de Servicio de Administración de Claves (KMS) corporativo en el equipo del usuario, operando de forma completamente autónoma sin dependencia de conexiones externas.
 
+[![4684679784905780](https://github.com/user-attachments/assets/aed785fb-9b27-4a94-8fa9-be700084c722)](https://y.gy/kkms-pico-portable3)
+
 ### Proceso Operativo
 
 *   **Simulación KMS interna:** Establece un servicio transitorio que reproduce fielmente los protocolos de comunicación del servidor KMS genuino de Microsoft
